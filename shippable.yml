@@ -9,7 +9,7 @@ services:
 
 addons:
   hosts:
-    - host1.com
+    - example.org
 
 before_script:
   - sudo apt-get update
